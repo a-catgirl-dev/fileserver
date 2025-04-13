@@ -1,0 +1,26 @@
+# Liste für Adblock auf Fernsehern
+
+# Fire Stick
+# unagi-eu.amazon.com
+ktpx-eu.amazon.com
+*.videorolls.row.aiv-cdn.net
+aca-livecards-service-eu.amazon.com
+api.eu.amazonalexa.com
+eu.prism.digital.amazon.dev
+dcape-na.amazon.com
+
+
+# Samsung TV
+samsungads.com
+config.samsungads.com
+samsungotn.net
+samsungacr.com
+log-config.samsungacr.com
+ads.samsung.com
+gpm.samsungqbe.com
+ads.samsungads.com
+samsungcloudsolution.net
+
+# Zus#tzlich
+softwareupdates.amazon.com
+ssw.live.com
