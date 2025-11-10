@@ -3,9 +3,11 @@
 # Fire Stick
 # unagi-eu.amazon.com
 ktpx-eu.amazon.com
+ktpx-eu-south-2.amazon.com
 *.videorolls.row.aiv-cdn.net
 aca-livecards-service-eu.amazon.com
 api.eu.amazonalexa.com
+api.eu-west-1.aiv-delivery.net
 eu.prism.digital.amazon.dev
 dcape-na.amazon.com
 
